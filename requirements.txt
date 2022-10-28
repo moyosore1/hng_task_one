@@ -1,0 +1,4 @@
+django==3.2
+djangorestframework==3.14.0
+isort==5.10.1
+black==22.6.0
